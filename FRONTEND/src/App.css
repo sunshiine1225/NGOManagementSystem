@@ -1,0 +1,132 @@
+
+
+@import url("https://fonts.googleapis.com/css2?family=Happy+Monkey&display=swap");
+.App{
+  font-family: 'Happy Monkey';
+}
+
+.navbar {
+  
+  position:fixed;
+  top:0;
+  left:0;
+  text-align:center;
+  padding: 8px 558px;
+  color:white;
+  background-color: #D29EE4;
+  display:block;
+  box-shadow: 0px 4px 4px rgba(75, 149, 217, 0.25);
+  
+  }
+
+.home{
+  position:relative;
+  top:120px;
+  left : 200px;
+}
+.home h1{
+  display:inline;
+  padding:8px 20px;
+  display: inline-block;
+  background: #D29EE4;
+  border-radius: 29px;
+  color:white;
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: justify;
+  box-shadow: 0px 4px 4px rgba(75, 149, 217, 0.25);
+}
+
+h2{
+  display:inline;
+  padding:8px 15px;
+  display: inline-block;
+  background: #D29EE4;
+  border-radius: 29px;
+  color:white;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  text-align: justify;
+  box-shadow: 0px 4px 4px rgba(75, 149, 217, 0.25);
+}
+.new {
+ display:inline;
+ position:relative;
+ left: 800px;
+ 
+ 
+}
+
+
+.recents
+{
+  
+  
+position:relative;
+display: inline-block;
+color: #D29EE4;
+font-weight: 400;
+left:20px;
+font-size: 24px;
+line-height: 29px;
+
+
+
+}
+.task-preview
+{
+  position:relative;
+  left : 22px;
+ 
+ 
+
+
+}
+.home h2:hover {
+  
+  box-shadow: rgba(0,0,0,0.1);
+}
+h2{
+  display:inline;
+  font-weight:500;}
+.delete{
+  display:inline;
+  position:absolute;
+  left: 950px;
+}
+.add{
+  position:relative;
+  top:120px;
+  left : 200px; 
+  
+}
+.add form{
+  position:relative;
+  left:400px;
+   color:black;
+   font-weight: 400;
+   font-size: 24px;
+}
+.add form button{
+  
+  position:relative;
+  display: inline-block;
+  background-color: #D29EE4;
+  font-weight: 400;
+  left:120px;
+  font-size: 24px;
+  color:white;
+  line-height: 29px;
+  border:none;
+  padding: 5px 15px;
+  border-radius: 15px;
+  }
+  a{
+    
+      text-decoration: none;
+      font-size: 26px;
+
+    
+  }
